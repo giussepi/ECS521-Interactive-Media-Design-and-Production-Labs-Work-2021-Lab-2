@@ -9,6 +9,8 @@
 ### About this Lab
 This lab is about styling a canvas and simulating depth.
 
+Make sure to disable the browser cache to avoid issues with caching the JavaScript and CSS files. (e.g. In Google Chrome, open the development tools using  `Ctrl + Shift + i`, then click settings and tick "Disable cache (while DevTools is open)").
+
 ## A. Setup
 1. Open [html/index.html](https://github.com/giussepi/ECS521-Interactive-Media-Design-and-Production-Labs-Work-2021/blob/master/lab-2/html/index.html) file in browser (chrome/firefox/ie).
 2. Open [html/index.html](https://github.com/giussepi/ECS521-Interactive-Media-Design-and-Production-Labs-Work-2021/blob/master/lab-2/html/index.html) and [js/sky.js](https://github.com/giussepi/ECS521-Interactive-Media-Design-and-Production-Labs-Work-2021/blob/master/lab-2/js/sky.js) files in a text editor.
